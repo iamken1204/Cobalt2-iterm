@@ -2,8 +2,9 @@
 
 ![](http://wes.io/Ub3k/content)
 
-`cobalt2.itermcolors` is for anyone who uses iTerm2 and wants the colours. The `cobalt2.zsh-theme` is the prompt layout for zsh users. 
-A repo folked from [wesbos/Cobalt2-iterm](https://github.com/wesbos/Cobalt2-iterm)
+`cobalt2.itermcolors` is for anyone who uses iTerm2 and wants the colours.  
+The `cobalt2.zsh-theme` is the prompt layout for zsh users.   
+A repo folked from [wesbos/Cobalt2-iterm](https://github.com/wesbos/Cobalt2-iterm)   
 
 ####Step-by-step installation
 1. Drop the `cobalt2.zsh-theme` file in to the `~/.oh-my-zsh/themes/` directory.
