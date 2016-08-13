@@ -1,4 +1,4 @@
-# Cobalt2 for iTerm2 and ZSH
+<p align="center"><h1>Cobalt2 for iTerm2 and ZSH</h1></p>
 
 ![](http://wes.io/Ub3k/content)
 
